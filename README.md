@@ -26,6 +26,8 @@ For reference of quantum trajectories, refer to [this link](https://arxiv.org/ab
 ## login to UChicago midway
 `ssh **YOUR_CNetID**@midway1.rcc.uchicago.edu`
 
+get [PuTTy](http://www.putty.org/) for ssh if you are using Windows.
+
 ## Clone this repository
 `git clone https://github.com/SchusterLab/midway_quantum_trajectories.git`
 
