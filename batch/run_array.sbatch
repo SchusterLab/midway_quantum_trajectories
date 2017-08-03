@@ -9,4 +9,6 @@
 #SBATCH --ntasks=1
 #SBATCH --mem-per-cpu=4000
 
+module load python
+
 python ../qubit_simulation.py --task_id $SLURM_ARRAY_TASK_ID
