@@ -1,0 +1,6 @@
+*.npy
+*.pyc
+
+# files from sbatch run
+*.out
+*.err
