@@ -32,6 +32,8 @@ get [PuTTy](http://www.putty.org/) for ssh if you are using Windows.
 `git clone https://github.com/SchusterLab/midway_quantum_trajectories.git`
 
 ## Run file
+`cd midway_quantum_trajectories`
+
 `cd batch`
 
 `sbatch run.sbatch` for running 1 trajectory
